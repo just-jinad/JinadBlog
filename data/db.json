@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "My first blog",
+      "body": "Calm as night, gentle as the morning breeze, mistaken for a fool, smirks in irony",
+      "author": "jinad",
+      "id": 1
+    },
+    {
+      "title": "Its a friday",
+      "body": "Its a friday feeling you dont need a reason to start a freaking party yeah yeah",
+      "author": "Isaac",
+      "id": 2
+    }
+  ]
+}
