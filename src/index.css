@@ -10,7 +10,6 @@
 padding: 20px;
 display: flex;
 align-items: center;
-max-width: 600px;
 margin: 0 auto;
 border-bottom: 1px solid #f2f2f2;
 }
@@ -34,7 +33,7 @@ border-bottom: 1px solid #f2f2f2;
 }
 
 .content{
-  max-width: 600px;
+  /* max-width: 600px; */
   margin: 40px auto;
   padding: 20px;
 }
@@ -93,6 +92,15 @@ border-bottom: 1px solid #f2f2f2;
   color: white;
   background: #f1356d;
  }
+
+ /* first image responsive */
+ @media (max-width: 376px) {
+  .polluted{
+    max-width: 100%; 
+    height: auto; 
+  }
+}
+
 
 
 
