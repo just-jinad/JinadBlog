@@ -6,8 +6,8 @@ const Bloglist = ({ blogs, title, }) => {
         <div>
         <div className="d-flex">
         <div className="">
-       <h5>Welcome to Jinad's blog</h5><br />
-       <h6> Clean Water and Sanitation to the Forefront of Change</h6>
+       <h5 className="fw-bolder">Welcome to Jinad's blog</h5><br />
+       <h6 className="fw-bold text-secondary"> Clean Water and Sanitation to the Forefront of Change..</h6>
        <p>At Jinad's, we are passionate about making a difference in the world by addressing one of the most critical issues of our time: access to clean water and sanitation. Our mission is aligned with the United Nations' Sustainable Development Goal 6, which aims to ensure availability and sustainable management of water and sanitation for all. Through this platform, we aspire to educate, inspire, and drive action towards a future where every individual has access to clean and safe water resources</p>
        </div>
         <div className="image-holder">
